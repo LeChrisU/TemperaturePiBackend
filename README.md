@@ -7,9 +7,9 @@ The node.js backend allows easy access to the data stored by serving a REST API 
 
 # Usage
 1. Install Node.js from https://nodejs.org/en/
-2. Configure your MySQL Database into config/config.json
-3. Use the Database scheme given in models/TempHumidity.js or use sequelize-cli (https://github.com/sequelize/cli) to generate a scheme for your database
-4. Run node app.js in the background by issuing nuhop node app.js &
+2. Configure your MySQL Database into `config/config.json`
+3. Use the Database scheme given in `models/TempHumidity.js` or use sequelize-cli (https://github.com/sequelize/cli) to generate a scheme for your database
+4. Run `node app.js` or for background usage run `nohup node app.js &`
 
 # Demo
 A live demo of the resulting JSON can be seen at http://mypi.chris-ullrich.de/weather.
