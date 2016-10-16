@@ -1,2 +1,2 @@
 # TemperaturePiBackend
-Python and Node.js based Backend for Temperature Pi Home Project
+Python and Node.js / Express.js based Backend for Temperature Pi Home Project
